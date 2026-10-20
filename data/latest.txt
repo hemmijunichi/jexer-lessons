@@ -1,0 +1,305 @@
+火|20:45|21:15|C|BODYCOMBAT30【暗闇】|四谷|スタジオ|HINA|wdnb|
+木|11:30|12:00|U|UBOUND30【暗闇】|四谷|スタジオ|町田 紀子|wdb|
+木|20:20|21:05|C|BODYCOMBAT45【暗闇】|四谷|スタジオ|週替わり|wdn|
+金|07:30|08:15|C|BODYCOMBAT45【暗闇】|四谷|スタジオ|白石 周史|wd|
+金|19:45|20:30|U|UBOUND45【暗闇】|四谷|スタジオ|OISHI|wdb|
+土|18:15|19:00|C|BODYCOMBAT45【暗闇】|四谷|スタジオ|山田 芳彰|wd|
+日|14:15|15:00|U|UBOUND45【暗闇】|四谷|スタジオ|週替わり|wd|
+火|11:30|12:15|A|BODY ATTACK|大井町|スタジオA|藤ヶ崎美奈|w|定員45名
+火|20:45|21:30|U|UBOUND|大井町|スタジオB|RIKUTO|w|定員25
+水|12:40|13:25|C|BODY COMBAT|大井町|スタジオA|REO|w|定員45
+水|18:35|19:20|A|BODY ATTACK|大井町|スタジオA|RIKUTO|w|定員45名
+水|20:40|21:25|C|BODYCOMBAT|大井町|スタジオA|つばさ|w|定員45
+木|11:35|12:20|U|UBOUND|大井町|スタジオB|REO|wb|定員25
+木|20:30|21:15|U|UBOUND|大井町|スタジオB|RIKUTO|w|定員25
+金|13:40|14:25|U|UBOUND|大井町|スタジオB|HINAKO|wnb|定員25
+金|20:50|21:35|C|BODYCOMBAT|大井町|スタジオA|高橋雅俊|wn|定員45
+土|15:00|15:45|C|BODY COMBAT|大井町|スタジオA|FUMI|w|定員45
+土|18:25|19:10|C|BODY COMBAT|大井町|スタジオA|REO|w|定員45名
+日|09:05|09:50|C|BODY COMBAT|大井町|スタジオA|志乃|w|定員45
+日|15:40|16:25|C|BODY COMBAT|大井町|スタジオA|RIKUTO|w|定員45
+火|14:40|15:25|C|BODY COMBAT|赤羽|スタジオA|小山田 恵子|w|
+火|15:45|16:30|U|UBOUND|赤羽|スタジオA|山上 奨|w|
+火|18:30|19:15|C|BODY COMBAT 【女性専用】|赤羽|スタジオC|MAI|w|女性専用
+火|21:20|22:05|A|BODY ATTACK|赤羽|スタジオA|家城 和大|wn|
+水|19:10|19:55|A|BODY ATTACK|赤羽|スタジオA|駒谷 亜美|w|
+水|20:15|21:00|U|UBOUND|赤羽|スタジオA|加藤 綾音|w|
+水|21:20|22:05|C|BODY COMBAT|赤羽|スタジオA|石田 和巳|wn|
+木|13:25|14:10|C|BODY COMBAT|赤羽|スタジオA|MAI|w|
+木|21:10|21:55|U|UBOUND|赤羽|スタジオA|駒谷 亜美|w|
+金|14:20|15:05|U|UBOUND|赤羽|スタジオA|MINORI|w|
+金|15:25|16:10|C|BODY COMBAT|赤羽|スタジオA|小山田 恵子|w|
+金|21:30|22:15|C|BODY COMBAT|赤羽|スタジオA|角田 優美|w|
+土|12:20|13:05|U|UBOUND|赤羽|スタジオA|MAI|w|
+土|14:35|15:20|C|BODY COMBAT|赤羽|スタジオA|茂木 隆将|w|
+日|08:45|09:30|C|BODYCOMBAT|赤羽|スタジオC|青柳 紀映|w|
+日|11:05|11:50|C|BODY COMBAT|赤羽|スタジオA|小山田 恵子|w|
+日|12:10|12:55|A|BODY ATTACK|赤羽|スタジオA|角田 優美|w|
+日|16:55|17:40|U|UBOUND|赤羽|スタジオA|本間 幹崇|w|
+月|20:35|21:20|C|BODYCOMBAT|大宮|スタジオA|長谷川未空|w|
+火|08:55|09:40|A|BODYATTACK|大宮|スタジオA|YUI|w|
+火|12:10|12:55|C|BODYCOMBAT|大宮|スタジオA|岩泉志穂|w|
+火|15:25|15:55|C|BODY COMBAT 【予約不要】|大宮|スタジオA|小野花音|xnb|予約不要
+火|20:40|21:25|A|BODYATTACK|大宮|スタジオA|山本綾音|w|
+水|10:50|11:35|C|BODYCOMBAT|大宮|スタジオA|清水春希|w|
+水|20:15|21:00|C|BODYCOMBAT|大宮|スタジオA|草野麻由|w|
+木|08:50|09:35|C|BODYCOMBAT|大宮|スタジオA|YUI|w|
+木|20:05|20:50|U|UBOUND|大宮|スタジオA|長谷川未空|w|
+木|21:10|21:55|C|BODYCOMBAT|大宮|スタジオA|白石周史|w|
+土|11:00|11:45|C|BODYCOMBAT|大宮|アリーナ①・アリーナ②|清水春希|w|
+土|13:10|13:55|U|UBOUND|大宮|スタジオA|清水春希|w|
+土|16:25|17:10|A|BODYATTACK|大宮|スタジオA|関根隆介|w|
+日|15:50|16:35|A|BODYATTACK|大宮|スタジオA|清水春希|w|
+日|16:55|17:40|C|BODYCOMBAT|大宮|スタジオA|白石周史|w|
+月|20:25|20:55|U|UBOUND30（初心者向け）|戸田公園|スタジオA|MAAO|wb|初心者向け
+月|21:20|22:05|C|BODY COMBAT45|戸田公園|スタジオA|MAAO|w|
+火|14:55|15:40|C|BODY COMBAT45|戸田公園|スタジオA|庄司 早希|w|
+火|21:15|22:00|C|BODY COMBAT45|戸田公園|スタジオA|一輝|w|
+水|12:05|12:35|U|UBOUND30（初心者向け）|戸田公園|スタジオA|櫛田 秀康|wb|初心者向け
+水|14:00|14:45|C|BODY COMBAT45|戸田公園|スタジオA|水野 勇人|w|
+水|21:20|22:05|A|BODY ATTACK45 (暗闇)|戸田公園|スタジオA|永川 楓香|wd|
+金|14:55|15:40|U|UBOUND45|戸田公園|スタジオA|庄司 早希|w|
+金|21:05|21:50|C|BODY COMBAT45|戸田公園|スタジオA|TSUJI|w|
+土|16:50|17:35|U|UBOUND45|戸田公園|スタジオA|永川 楓香|wn|
+土|19:00|19:45|C|BODYCOMBAT45 (暗闇)|戸田公園|スタジオA|庄司 早希|wd|
+日|13:50|14:35|U|UBOUND45|戸田公園|スタジオA|庄司 早希|w|
+日|16:10|16:55|C|BODY COMBAT45|戸田公園|スタジオA|TSUJI|w|
+月|19:15|20:00|A|BODY ATTACK|上野|Studio CORE|ゆゆ|w|定員60名
+火|07:30|08:00|C|BODY COMBAT|上野|Sutudio TRUSS|VR|xv|定員24名
+火|15:10|15:55|C|BODY COMBAT|上野|Studio CORE|白石周史|w|定員60名
+火|18:10|18:55|C|BODY COMBAT|上野|Studio CORE|志乃|w|定員60名
+火|19:10|19:40|U|UBOUND|上野|Studio CORE|加賀見律紗|wb|定員42名
+水|19:10|20:10|C|BODY COMBAT|上野|Sutudio TRUSS|いっちー。|wy|定員15名
+水|20:25|21:10|U|UBOUND|上野|Studio CORE|DAICHI|w|定員42名
+木|07:15|08:00|C|BODY COMBAT|上野|Sutudio TRUSS|VR|xv|定員24名
+木|21:20|22:05|C|BODY COMBAT|上野|Studio CORE|DAICHI|w|定員60名
+土|08:20|08:50|C|BODY COMBAT|上野|Studio CORE|VR|xvb|定員42名
+土|10:00|10:45|C|BODY COMBAT|上野|Studio CORE|MASA|w|定員60名
+土|13:00|13:45|A|BODY ATTACK|上野|Studio CORE|石田智裕|w|定員60名
+土|19:00|19:45|C|BODY COMBAT|上野|Studio CORE|家城和大|w|定員60名
+土|20:05|20:50|U|UBOUND|上野|Studio CORE|加賀見律紗|w|定員42名
+日|08:20|08:50|C|BODY COMBAT|上野|Studio CORE|VR|xv|定員60名
+日|12:20|12:50|U|UBOUND|上野|Studio CORE|DAICHI|xb|定員42名
+日|15:35|16:20|C|BODY COMBAT|上野|Studio CORE|ゆゆ|w|定員60名
+月|11:05|11:50|C|BODYCOMBAT|池袋|スタジオ|Taichi|w|
+月|19:45|20:30|C|BODYCOMBAT【暗闇】|池袋|スタジオ|SOTA|wd|
+月|20:50|21:20|A|BODYATTACK【暗闇】|池袋|スタジオ|SOTA|wdnb|
+水|18:50|19:20|C|BODYCOMBAT|池袋|スタジオ|小澤榛名|wn|
+木|13:00|13:45|U|UBOUND|池袋|スタジオ|SOTA|wb|
+木|20:05|20:50|A|BODYATTACK【暗闇】|池袋|スタジオ|ARAI|wd|
+金|20:55|21:40|C|BODYCOMBAT【暗闇】|池袋|スタジオ|Taichi|wd|
+土|10:00|10:45|C|BODYCOMBAT【暗闇】|池袋|スタジオ|SOTA|wd|
+土|12:10|12:55|U|UBOUND|池袋|スタジオ|#うっちー|w|
+土|13:15|14:00|A|BODYATTACK|池袋|スタジオ|ARAI|wn|
+日|11:20|12:05|C|BODYCOMBAT|池袋|スタジオ|Luna|w|
+月|19:15|20:00|A|BODYATTACK|東神奈川|スタジオA|横地|wn|
+月|21:05|21:50|U|【暗闇】UBOUND|東神奈川|スタジオA|NENE|wdn|
+火|14:00|14:45|C|BODYCOMBAT|東神奈川|スタジオA|NONOKA|w|
+火|20:10|20:55|U|UBOUND|東神奈川|スタジオA|NONOKA|w|
+水|13:10|13:55|U|UBOUND|東神奈川|スタジオA|Kana|w|
+水|18:10|18:55|C|BODYCOMBAT|東神奈川|スタジオA|白石周史|w|
+水|19:10|19:55|A|BODYATTACK|東神奈川|スタジオA|家城和大|w|
+木|15:05|15:50|C|BODYCOMBAT|東神奈川|スタジオA|沖松 佑樹|wn|
+木|20:15|21:00|C|BODYCOMBAT|東神奈川|スタジオB|稲村未彩紀|w|
+木|21:15|21:45|A|BODYATTACK|東神奈川|スタジオA|横地|wnb|
+土|18:35|19:20|C|BODYCOMBAT|東神奈川|スタジオA|安間 ゆりか|wn|
+日|13:35|14:20|C|BODYCOMBAT|東神奈川|スタジオA|NONOKA|wn|
+日|14:35|15:20|A|BODYATTACK|東神奈川|スタジオA|横地|wn|
+日|18:40|19:25|U|【暗闇】UBOUND|東神奈川|スタジオA|NONOKA|wdn|
+月|20:55|21:40|U|UBOUND|亀戸|スタジオA|山上 奨|wn|
+火|13:30|14:15|C|BODYCOMBAT|亀戸|スタジオA|MASA|w|
+火|19:40|20:25|A|BODYATTACK|亀戸|スタジオA|西尾 真夕|w|
+火|20:45|21:30|C|BODYCOMBAT|亀戸|スタジオA|西尾 真夕|w|
+水|14:50|15:35|U|UBOUND|亀戸|スタジオA|大久保 敬史|wn|
+木|14:35|15:20|C|BODYCOMBAT|亀戸|スタジオA|羽柴|wnb|
+木|18:40|19:10|A|BODYATTACK|亀戸|スタジオA|大久保 敬史|wn|
+木|19:30|20:15|C|BODYCOMBAT|亀戸|スタジオA|大久保 敬史|wn|
+土|09:20|10:05|C|BODYCOMBAT|亀戸|スタジオA|石田智裕|w|
+土|13:25|14:10|A|BODYATTACK|亀戸|スタジオA|山上 奨|w|
+土|14:30|15:15|U|UBOUND|亀戸|スタジオA|西尾 真夕|w|
+土|16:45|17:30|C|BODYCOMBAT|亀戸|スタジオA|松下詠一|w|
+日|11:45|12:30|A|BODYATTACK|亀戸|スタジオA|西尾 真夕|w|
+日|12:50|13:35|C|BODYCOMBAT|亀戸|スタジオA|西尾 真夕|w|
+月|12:00|12:45|C|BODYCOMBAT|新宿|アクティブスタジオ|SHUNSUKE|w|
+月|19:15|20:00|C|BODY COMBAT|新宿|アクティブスタジオ|FUMI|w|
+月|20:20|21:05|A|BODY ATTACK45|新宿|アクティブスタジオ|阿波嵜 煕子|w|
+火|11:15|12:00|C|BODY COMBAT|新宿|アクティブスタジオ|富樫|w|
+火|12:20|13:05|A|BODY ATTACK|新宿|アクティブスタジオ|富樫|w|
+火|20:25|21:10|C|BODY COMBAT|新宿|アクティブスタジオ|田村 真紀|w|
+水|12:45|13:30|C|BODY COMBAT|新宿|アクティブスタジオ|ERI|w|
+水|19:00|19:45|C|BODY COMBAT45|新宿|アクティブスタジオ|古岡 綾子|w|
+水|21:30|22:15|A|BODY ATTACK45|新宿|アクティブスタジオ|原田 悠茉|wb|
+木|07:20|08:05|C|BODY COMBAT|新宿|アクティブスタジオ|白石 周史|w|
+木|11:50|12:35|C|BODY COMBAT|新宿|アクティブスタジオ|MASA|w|
+木|20:00|20:45|A|BODY ATTACK|新宿|アクティブスタジオ|富樫|w|
+木|21:05|21:50|C|BODY COMBAT|新宿|アクティブスタジオ|富樫|w|
+土|10:15|11:00|C|BODY COMBAT|新宿|アクティブスタジオ|SHUNSUKE|w|
+土|13:35|14:20|C|BODY COMBAT|新宿|アクティブスタジオ|深谷|w|
+土|15:45|16:30|A|BODY ATTACK45|新宿|アクティブスタジオ|齋藤 香帆|w|
+土|16:50|17:35|C|BODY COMBAT|新宿|アクティブスタジオ|山岸|w|
+日|10:20|11:05|A|BODY ATTACK|新宿|アクティブスタジオ|原田 悠茉|w|
+日|11:25|12:10|C|BODYCOMBAT|新宿|アクティブスタジオ|ERI|w|
+月|12:30|13:15|U|UBOUND45|大塚|Studio Natural|福山春菜|w|
+月|21:00|21:45|C|BODYCOMBAT45|大塚|Studio Natural|福川竣祐|w|
+火|09:55|10:40|C|BODYCOMBAT45|大塚|Studio Natural|KANA|w|
+火|20:35|21:20|A|BODYATTACK45|大塚|Studio Natural|石田智裕|w|
+水|09:30|10:15|C|BODYCOMBAT45|大塚|Studio Natural|福川竣祐|wn|
+水|12:50|13:35|A|BODYATTACK45|大塚|Studio Natural|猪股愛美|w|
+水|17:50|18:20|C|BODYCOMBAT30|大塚|Studio Natural|SARI|w|
+水|18:40|19:25|A|BODYATTACK45|大塚|Studio Natural|SARI|w|
+水|19:50|20:35|U|UBOUND45|大塚|Studio Natural|chiho|w|
+水|21:00|21:45|C|BODYCOMBAT45|大塚|Studio Natural|あかり|wn|
+金|07:25|08:10|C|BODYCOMBAT45|大塚|Studio Natural|山崎舞子|wn|
+金|12:25|13:10|U|UBOUND45|大塚|Studio Natural|駒谷亜美|w|
+金|16:35|17:20|C|BODYCOMBAT45|大塚|Studio Natural|KANA|w|
+金|20:05|20:35|U|UBOUND30|大塚|Studio Natural|kaho|wn|
+金|20:55|21:40|C|BODYCOMBAT45|大塚|Studio Natural|白石周史|w|
+土|12:05|12:50|C|BODYCOMBAT45|大塚|Studio Natural|AIRI|w|
+土|16:35|17:20|A|BODYATTACK45|大塚|Studio Natural|松村真里|wn|
+土|19:00|20:00|C|BODYCOMBAT60|大塚|Studio Natural|一輝|wy|
+日|13:50|14:35|C|BODYCOMBAT45|大塚|Studio Natural|福川竣祐|w|
+火|20:05|20:50|U|UBOUND|新川崎|Studio Natural|NAOKI|w|
+火|21:10|21:55|A|BODYATTACK|新川崎|Studio Natural|NAOKI|w|
+水|10:20|11:05|C|BODYCOMBAT|新川崎|Studio Natural|MIKAMI|w|
+水|21:15|22:00|C|BODYCOMBAT|新川崎|Studio Natural|AKANE|w|
+木|12:30|13:15|A|BODY ATTACK|新川崎|Studio Natural|NAOKI|w|
+木|19:00|19:45|A|BODYATTACK|新川崎|Studio Natural|阿部里菜|wn|
+木|21:10|21:55|C|BODYCOMBAT|新川崎|Studio Natural|CHIHARU|w|
+金|08:55|09:40|C|BODYCOMBAT|新川崎|Studio Natural|CHIHARU|w|
+金|14:20|15:05|U|UBOUND|新川崎|Studio Natural|NAOKI|w|
+土|09:15|10:00|C|BODYCOMBAT|新川崎|Studio Natural|CHIHARU|w|
+土|19:00|19:45|C|BODYCOMBAT|新川崎|Studio Natural|MIKAMI|w|
+日|11:35|12:20|U|UBOUND|新川崎|Studio Natural|NAOKI|w|
+日|12:40|13:25|A|BODYATTACK|新川崎|Studio Natural|KUMAGAI|w|
+日|14:50|15:35|C|BODYCOMBAT|新川崎|Studio Natural|CHIHARU|w|
+月|08:40|09:25|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
+月|20:45|21:30|C|BODY COMBAT|浦和|5F BLUE Studio|YUHI|w|定員42名
+火|07:25|07:55|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
+火|10:15|11:00|C|BODY COMBAT|浦和|5F BLUE Studio|原田悠茉|w|定員42名
+火|11:25|12:10|A|BODY ATTACK|浦和|6F RED Studio|原田悠茉|w|定員28名
+火|19:15|20:00|A|BODY ATTACK|浦和|5F BLUE Studio|矢内麻美|w|定員42名
+火|20:25|21:10|C|BODYCOMBAT|浦和|5F BLUE Studio|服部朋晃|w|定員42名
+水|07:30|08:15|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
+水|18:45|19:30|C|BODY COMBAT|浦和|5F BLUE Studio|井上暁斗|w|定員42名
+水|19:15|20:00|U|UBOUND|浦和|6F RED Studio|矢内麻美|w|定員28名
+水|20:45|21:30|A|BODY ATTACK|浦和|5F BLUE Studio|岸本滉平|wn|定員42名
+木|09:00|09:45|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
+木|12:50|13:35|C|BODY COMBAT|浦和|6F RED Studio|小曽根厚仁|w|定員28名
+木|15:25|16:10|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
+木|19:55|20:40|C|BODY COMBAT|浦和|5F BLUE Studio|MISUZU|w|定員42名
+木|20:15|20:45|U|UBOUND|浦和|6F RED Studio|井上暁斗|w|定員28名
+木|21:05|21:50|A|BODY ATTACK|浦和|5F BLUE Studio|MISUZU|w|定員42名
+土|08:45|09:30|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
+土|12:30|13:15|C|BODY COMBAT|浦和|5F BLUE Studio|MASA|w|定員42名
+土|12:50|13:35|U|UBOUND|浦和|6F RED Studio|柴田有里江|w|定員28名
+土|16:10|16:55|C|BODY COMBAT|浦和|5F BLUE Studio|原田悠茉|wn|定員42名
+土|17:15|18:00|A|BODY ATTACK|浦和|5F BLUE Studio|原田悠茉|w|定員42名
+日|08:45|09:30|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
+日|13:40|14:25|C|BODY COMBAT|浦和|6F RED Studio|MISUZU|w|定員28名
+日|14:45|15:30|U|UBOUND|浦和|6F RED Studio|井上暁斗|w|定員28名
+日|16:50|17:35|A|BODY ATTACK|浦和|5F BLUE Studio|家城和大|w|定員42名
+日|17:55|18:40|C|BODY COMBAT|浦和|5F BLUE Studio|家城和大|w|定員42名
+火|09:55|10:40|C|BODY COMBAT|横浜|STANDARD STUDIO|横山菜摘|w|
+火|12:05|12:50|U|UBOUND|横浜|STANDARD STUDIO|TAKEMI|wb|
+火|18:15|18:45|A|BODY ATTACK|横浜|STANDARD STUDIO|ながしー|wb|
+火|19:00|19:45|C|BODY COMBAT|横浜|STANDARD STUDIO|SHUNYA|w|
+水|12:15|13:00|C|BODYCOMBAT|横浜|STANDARD STUDIO|ERIKO|w|
+水|19:15|20:00|U|UBOUND|横浜|STANDARD STUDIO|MISAKI|wb|
+水|20:15|21:00|C|BODY COMBAT|横浜|STANDARD STUDIO|横山菜摘|w|
+木|13:50|14:35|C|BODY COMBAT|横浜|STANDARD STUDIO|Halchael|w|
+木|18:15|19:00|U|UBOUND|横浜|STANDARD STUDIO|Halchael|wb|
+木|20:25|21:10|C|BODY COMBAT|横浜|STANDARD STUDIO|志乃|w|
+金|21:15|22:00|C|BODY COMBAT|横浜|STANDARD STUDIO|桃乃|w|
+土|14:35|15:20|U|UBOUND|横浜|STANDARD STUDIO|TAKEMI|wnb|
+土|16:40|17:25|C|BODY COMBAT|横浜|STANDARD STUDIO|ERIKO|w|
+土|18:35|19:20|A|BODY ATTACK|横浜|STANDARD STUDIO|垂水颯飛|w|
+日|12:05|12:50|A|BODY ATTACK|横浜|STANDARD STUDIO|ながしー|wb|
+日|13:10|13:55|U|UBOUND|横浜|STANDARD STUDIO|しんい|wb|
+日|14:15|15:00|C|BODY COMBAT|横浜|STANDARD STUDIO|Halchael|w|
+日|15:20|16:05|C|〈スタートクラス〉BODY COMBAT30＋テック15|横浜|STANDARD STUDIO|Halchael|wnb|スタートクラス
+月|13:45|14:30|U|UBOUND45|板橋|Aスタジオ|Mii|w|
+月|19:00|19:45|C|BODYCOMBAT45|板橋|Aスタジオ|茂木隆将|w|
+月|20:05|20:50|U|UBOUND45|板橋|Aスタジオ|REINA|w|
+火|11:20|12:05|U|UBOUND45|板橋|Aスタジオ|MISAKI|wb|
+火|18:50|19:35|A|BODYATTACK45|板橋|Aスタジオ|山上奨|w|
+火|21:00|21:45|C|BODYCOMBAT45|板橋|Aスタジオ|青柳紀映|wn|
+水|14:10|14:55|C|BODYCOMBAT45|板橋|Aスタジオ|Kaho|w|
+水|21:10|21:55|U|UBOUND45|板橋|Aスタジオ|MISAKI|w|
+木|12:30|13:15|C|BODYCOMBAT45|板橋|Aスタジオ|原田拓実|w|
+木|19:55|20:40|A|BODYATTACK45|板橋|Aスタジオ|舩橋彩香|w|
+木|21:00|21:45|C|BODYCOMBAT45|板橋|Aスタジオ|熊優一|w|
+土|13:20|14:05|U|UBOUND45|板橋|Aスタジオ|MISAKI|w|
+日|11:35|12:20|C|BODYCOMBAT45|板橋|Aスタジオ|白石周史|x|
+日|16:30|17:15|C|BODYCOMBAT45|板橋|Aスタジオ|Kaho|w|
+月|08:15|08:45|C|BODYCOMBAT|川崎|StudioA|VR|xv|
+月|10:15|11:00|U|UBOUND|川崎|StudioA|Kana|w|
+月|12:30|13:15|C|BODYCOMBAT|川崎|StudioA|田村真紀|w|
+火|07:30|08:00|C|BODYCOMBAT|川崎|StudioA|VR|xv|
+火|08:15|08:45|A|BODYATTACK|川崎|StudioA|VR|xv|
+火|14:35|15:20|A|BODYATTACK|川崎|StudioA|藤ヶ崎美奈|w|
+火|18:45|19:15|A|BODYATTACK|川崎|StudioA|藤井熙|w|
+火|19:35|20:20|C|BODYCOMBAT|川崎|StudioA|藤井熙|w|
+水|09:00|09:30|C|BODYCOMBAT|川崎|StudioA|VR|xv|
+水|11:20|12:05|A|BODYATTACK|川崎|StudioA|HATTY|w|
+水|12:25|13:10|C|BODYCOMBAT|川崎|StudioA|HATTY|w|
+水|18:40|19:10|C|BODYCOMBAT|川崎|StudioA|恒松|w|
+水|19:35|20:20|U|UBOUND|川崎|StudioA|Kana|w|
+木|07:30|08:00|A|BODYATTACK|川崎|StudioA|VR|xv|
+木|20:30|21:15|C|BODYCOMBAT|川崎|StudioA|藤後勇爾|w|
+土|12:10|12:55|C|BODYCOMBAT|川崎|StudioA|藤井熙|w|
+土|16:50|17:35|U|UBOUND|川崎|StudioA|加賀見律紗|xn|
+土|19:15|20:00|C|BODYCOMBAT|川崎|StudioA|横山菜摘|w|
+日|09:15|09:45|C|BODYCOMBAT|川崎|StudioA|VR|xv|
+日|10:15|11:00|U|UBOUND|川崎|StudioA|Kana|w|
+日|13:40|14:25|A|BODYATTACK|川崎|StudioA|横山菜摘|w|
+日|15:55|16:40|C|BODYCOMBAT|川崎|StudioA|青柳紀映|w|
+月|13:25|14:10|U|UBOUND|新小岩|Aスタジオ|GAKU|w|
+月|19:35|20:20|C|BODYCOMBAT|新小岩|Aスタジオ|羽柴|w|
+水|12:20|13:05|A|BODYATTACK|新小岩|Aスタジオ|芹澤 宗一郎|w|
+水|14:30|15:15|C|BODYCOMBAT|新小岩|Aスタジオ|つばさ|w|
+水|18:30|19:15|U|UBOUND|新小岩|Aスタジオ|佐々木 利輝|wn|
+水|20:40|21:25|C|BODYCOMBAT|新小岩|Aスタジオ|久保木 裕子|wn|
+木|19:25|20:10|U|UBOUND|新小岩|Aスタジオ|＃うっちー|w|
+木|20:30|21:15|C|BODYCOMBAT|新小岩|Aスタジオ|＃うっちー|wn|
+金|14:20|15:05|C|BODYCOMBAT|新小岩|Aスタジオ|MASA|w|
+土|10:10|10:55|A|BODYATTACK|新小岩|Aスタジオ|GAKU|w|
+土|13:25|14:10|C|BODYCOMBAT|新小岩|Aスタジオ|KAORU|w|
+日|13:00|13:45|U|UBOUND|新小岩|Aスタジオ|Kana|w|
+日|15:10|16:10|C|BODYCOMBAT|新小岩|Aスタジオ|吉永 怜史|wyn|
+日|16:30|17:15|A|BODYATTACK|新小岩|Aスタジオ|吉永 怜史|wn|
+月|11:35|12:20|U|UBOUND|国分寺|スタジオ|本間幹崇|x|
+月|13:45|14:30|C|BODY COMBAT|国分寺|スタジオ|原田 拓実|x|
+水|19:50|20:35|C|BODY COMBAT|国分寺|スタジオ|山下 璃久|x|
+金|12:10|12:55|C|BODY COMBAT|国分寺|スタジオ|宮 郁美|x|
+土|12:05|12:50|U|UBOUND|国分寺|スタジオ|つぐみ|x|
+土|14:30|15:15|C|BODY COMBAT|国分寺|スタジオ|三輪 亮太|x|
+日|12:50|13:35|C|BODY COMBAT|国分寺|スタジオ|佐藤 翔生|x|
+火|13:30|14:00|U|UBOUND|東小金井|Studio Natural|宮下 美紀|w|
+火|18:40|19:25|A|BODY ATTACK|東小金井|Studio Natural|宮田 茜|w|
+火|19:45|20:30|C|BODY COMBAT|東小金井|Studio Natural|宮田 茜|w|
+水|10:00|10:45|U|UBOUND|東小金井|Studio Natural|宮下 美紀|w|
+水|15:25|16:10|C|BODY COMBAT|東小金井|Studio Natural|宮下 美紀|w|
+木|15:15|16:00|A|BODY ATTACK|東小金井|Studio Natural|宮田 茜|w|
+木|20:40|21:25|C|BODY COMBAT|東小金井|Studio Natural|喜多 耕太郎|w|
+金|17:45|18:30|C|BODY COMBAT|東小金井|Studio Natural|白石 周史|w|
+金|19:55|20:40|U|UBOUND|東小金井|Studio Natural|成田 弘道|w|
+土|10:50|11:35|A|BODY ATTACK|東小金井|Studio Natural|宮下 美紀|w|
+土|16:15|17:00|U|UBOUND|東小金井|Studio Natural|土田 紗也|w|
+土|17:20|18:05|C|BODY COMBAT|東小金井|Studio Natural|宮田 茜|w|
+日|09:35|10:20|C|BODY COMBAT|東小金井|Studio Natural|真山 丈典|w|
+日|14:05|14:50|C|BODY COMBAT|東小金井|Studio Natural|山本 悠子|w|
+日|16:15|17:00|A|BODY ATTACK|東小金井|Studio Natural|阿部 里菜|w|
+日|17:20|18:05|U|UBOUND|東小金井|Studio Natural|土田 紗也|w|
+月|12:15|13:00|A|BODY ATTACK|高円寺|スタジオ|宮下 美紀|w|
+月|13:15|14:00|U|UBOUND|高円寺|スタジオ|宮下 美紀|w|
+火|18:30|19:15|U|UBOUND|高円寺|スタジオ|宮下 美紀|w|
+水|20:45|21:30|C|BODY COMBAT|高円寺|スタジオ|白石 周史|w|
+木|12:25|13:10|C|BODY COMBAT|高円寺|スタジオ|白石 周史|w|
+木|19:00|19:45|A|BODY ATTACK|高円寺|スタジオ|宮田 茜|w|
+金|14:35|15:20|C|BODY COMBAT|高円寺|スタジオ|Roku|wn|
+土|12:05|12:50|C|BODY COMBAT|高円寺|スタジオ|宮田 茜|w|
+土|13:05|13:50|A|BODY ATTACK|高円寺|スタジオ|宮田 茜|w|
+土|14:20|15:05|C|BODY COMBAT|高円寺|スタジオ|代行表をご確認ください|w|
+日|09:00|09:45|C|BODY COMBAT|高円寺|スタジオ|白石 周史|w|
+日|15:20|16:05|C|BODY COMBAT|高円寺|スタジオ|三輪 亮太|w|
+日|16:25|17:10|U|UBOUND|高円寺|スタジオ|三輪 亮太|w|
