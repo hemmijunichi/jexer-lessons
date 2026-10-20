@@ -2,6 +2,8 @@
 # 最新を取り込み -> 今月分・翌月分を取得 -> data/ に変更があれば GitHub に push。
 $ErrorActionPreference = 'Stop'
 Set-Location $PSScriptRoot
+# git / python を確実に見つけられるよう、最新の PATH を読み直す
+$env:Path = [Environment]::GetEnvironmentVariable('Path', 'Machine') + ';' + [Environment]::GetEnvironmentVariable('Path', 'User')
 $env:PYTHONIOENCODING = 'utf-8'
 Start-Transcript -Path (Join-Path $PSScriptRoot 'run.log') -Append | Out-Null
 try {
