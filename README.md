@@ -1,6 +1,8 @@
 # jexer-lessons
 
-ジェクサー各店の公開グループレッスン時間割から BODY COMBAT / BODY ATTACK / UBOUND の枠を毎月集めます（GitHub Actions で毎月1日 9:00 JST に自動実行）。
+ジェクサー各店の公開グループレッスン時間割から BODY COMBAT / BODY ATTACK / UBOUND の枠を毎月集めます。
+
+www.jexer.jp は GitHub Actions のサーバーからの接続を受け付けないため、毎月1日 9:00 に手元の Windows PC のタスクスケジューラ（タスク名 `jexer-lessons`）が `run_monthly.ps1` を実行し、結果をこのリポジトリに push します。PC が切れていた場合は次に起動したときに実行されます。
 
 ## 出力
 

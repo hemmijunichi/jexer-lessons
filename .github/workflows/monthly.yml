@@ -1,8 +1,10 @@
 name: monthly
 
+# www.jexer.jp は GitHub のサーバーからの接続を受け付けない（接続タイムアウト）ため、
+# 毎月の自動実行は手元の Windows PC のタスクスケジューラ（run_monthly.ps1）で行う。
+# サイト側が接続を受け付けるようになったときのために手動実行だけ残している。
+# 戻すときは下に schedule: - cron: "0 0 1 * *" を追加する。
 on:
-  schedule:
-    - cron: "0 0 1 * *"   # 毎月1日 0:00 UTC（日本時間 9:00）
   workflow_dispatch:       # Actions 画面から手動実行
 
 permissions:
