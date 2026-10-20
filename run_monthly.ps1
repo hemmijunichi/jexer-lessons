@@ -1,4 +1,4 @@
-# Windows のタスクスケジューラから毎月実行する。
+﻿# Windows のタスクスケジューラから毎月実行する。
 # 最新を取り込み -> 今月分・翌月分を取得 -> data/ に変更があれば GitHub に push。
 $ErrorActionPreference = 'Stop'
 Set-Location $PSScriptRoot
