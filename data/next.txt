@@ -5,19 +5,19 @@
 金|19:45|20:30|U|UBOUND45【暗闇】|四谷|スタジオ|OISHI|wdb|
 土|18:15|19:00|C|BODYCOMBAT45【暗闇】|四谷|スタジオ|山田 芳彰|wd|
 日|14:15|15:00|U|UBOUND45【暗闇】|四谷|スタジオ|週替わり|wd|
-火|11:30|12:15|A|BODY ATTACK 〔定員45名〕|大井町|スタジオA|藤ヶ崎美奈|w|定員45名
-火|20:45|21:30|U|UBOUND 〔定員25〕|大井町|スタジオB|RIKUTO|w|定員25
-水|12:40|13:25|C|BODY COMBAT 〔定員45〕|大井町|スタジオA|REO|w|定員45
-水|18:35|19:20|A|BODY ATTACK 〔定員45名〕|大井町|スタジオA|RIKUTO|w|定員45名
-水|20:40|21:25|C|BODYCOMBAT 〔定員45〕|大井町|スタジオA|つばさ|w|定員45
-木|11:35|12:20|U|UBOUND 〔定員25〕|大井町|スタジオB|REO|wb|定員25
-木|20:30|21:15|U|UBOUND 〔定員25〕|大井町|スタジオB|RIKUTO|w|定員25
-金|13:40|14:25|U|UBOUND 〔定員25〕|大井町|スタジオB|HINAKO|wb|定員25
-金|20:50|21:35|C|BODYCOMBAT 〔定員45〕|大井町|スタジオA|高橋雅俊|w|定員45
-土|15:00|15:45|C|BODY COMBAT 〔定員45〕|大井町|スタジオA|FUMI|w|定員45
-土|18:25|19:10|C|BODY COMBAT 〔定員45名〕|大井町|スタジオA|REO|w|定員45名
-日|09:05|09:50|C|BODY COMBAT 〔定員45〕|大井町|スタジオA|志乃|w|定員45
-日|15:40|16:25|C|BODY COMBAT 〔定員45〕|大井町|スタジオA|RIKUTO|w|定員45
+火|11:30|12:15|A|BODY ATTACK|大井町|スタジオA|藤ヶ崎美奈|w|定員45名
+火|20:45|21:30|U|UBOUND|大井町|スタジオB|RIKUTO|w|定員25
+水|12:40|13:25|C|BODY COMBAT|大井町|スタジオA|REO|w|定員45
+水|18:35|19:20|A|BODY ATTACK|大井町|スタジオA|RIKUTO|w|定員45名
+水|20:40|21:25|C|BODYCOMBAT|大井町|スタジオA|つばさ|w|定員45
+木|11:35|12:20|U|UBOUND|大井町|スタジオB|REO|wb|定員25
+木|20:30|21:15|U|UBOUND|大井町|スタジオB|RIKUTO|w|定員25
+金|13:40|14:25|U|UBOUND|大井町|スタジオB|HINAKO|wb|定員25
+金|20:50|21:35|C|BODYCOMBAT|大井町|スタジオA|高橋雅俊|w|定員45
+土|15:00|15:45|C|BODY COMBAT|大井町|スタジオA|FUMI|w|定員45
+土|18:25|19:10|C|BODY COMBAT|大井町|スタジオA|REO|w|定員45名
+日|09:05|09:50|C|BODY COMBAT|大井町|スタジオA|志乃|w|定員45
+日|15:40|16:25|C|BODY COMBAT|大井町|スタジオA|RIKUTO|w|定員45
 火|14:40|15:25|C|BODY COMBAT|赤羽|スタジオA|小山田 恵子|w|
 火|15:45|16:30|U|UBOUND|赤羽|スタジオA|山上 奨|w|
 火|18:30|19:15|C|BODY COMBAT 【女性専用】|赤羽|スタジオC|MAI|w|女性専用
@@ -63,23 +63,23 @@
 土|18:00|18:45|C|BODY COMBAT45|戸田公園|スタジオA|茂木 隆将|wn|
 日|13:50|14:35|U|UBOUND45|戸田公園|スタジオA|永川 楓香|wn|
 日|16:10|16:55|C|BODY COMBAT45|戸田公園|スタジオA|TSUJI|w|
-月|19:15|20:00|A|BODY ATTACK (定員60名)|上野|Studio CORE|ゆゆ|w|定員60名
-火|07:30|08:00|C|BODY COMBAT (定員24名)|上野|Sutudio TRUSS|VR|xv|定員24名
-火|15:10|15:55|C|BODY COMBAT (定員60名)|上野|Studio CORE|白石周史|w|定員60名
-火|18:10|18:55|C|BODY COMBAT (定員60名)|上野|Studio CORE|志乃|w|定員60名
-火|19:10|19:40|U|UBOUND (定員42名)|上野|Studio CORE|加賀見律紗|wb|定員42名
-水|19:10|20:10|C|BODY COMBAT (定員15名)|上野|Sutudio TRUSS|いっちー。|wy|定員15名
-水|20:25|21:10|U|UBOUND (定員42名)|上野|Studio CORE|DAICHI|w|定員42名
-木|07:15|08:00|C|BODY COMBAT (定員24名)|上野|Sutudio TRUSS|VR|xv|定員24名
-木|21:20|22:05|C|BODY COMBAT (定員60名)|上野|Studio CORE|DAICHI|w|定員60名
-土|08:20|08:50|C|BODY COMBAT (定員42名)|上野|Studio CORE|VR|xvb|定員42名
-土|10:00|10:45|C|BODY COMBAT (定員60名)|上野|Studio CORE|MASA|w|定員60名
-土|13:00|13:45|A|BODY ATTACK (定員60名)|上野|Studio CORE|石田智裕|w|定員60名
-土|19:00|19:45|C|BODY COMBAT (定員60名)|上野|Studio CORE|家城和大|w|定員60名
-土|20:05|20:50|U|UBOUND (定員42名)|上野|Studio CORE|加賀見律紗|w|定員42名
-日|08:20|08:50|C|BODY COMBAT (定員60名)|上野|Studio CORE|VR|xv|定員60名
-日|12:20|12:50|U|UBOUND (定員42名)|上野|Studio CORE|DAICHI|xb|定員42名
-日|15:35|16:20|C|BODY COMBAT (定員60名)|上野|Studio CORE|ゆゆ|w|定員60名
+月|19:15|20:00|A|BODY ATTACK|上野|Studio CORE|ゆゆ|w|定員60名
+火|07:30|08:00|C|BODY COMBAT|上野|Sutudio TRUSS|VR|xv|定員24名
+火|15:10|15:55|C|BODY COMBAT|上野|Studio CORE|白石周史|w|定員60名
+火|18:10|18:55|C|BODY COMBAT|上野|Studio CORE|志乃|w|定員60名
+火|19:10|19:40|U|UBOUND|上野|Studio CORE|加賀見律紗|wb|定員42名
+水|19:10|20:10|C|BODY COMBAT|上野|Sutudio TRUSS|いっちー。|wy|定員15名
+水|20:25|21:10|U|UBOUND|上野|Studio CORE|DAICHI|w|定員42名
+木|07:15|08:00|C|BODY COMBAT|上野|Sutudio TRUSS|VR|xv|定員24名
+木|21:20|22:05|C|BODY COMBAT|上野|Studio CORE|DAICHI|w|定員60名
+土|08:20|08:50|C|BODY COMBAT|上野|Studio CORE|VR|xvb|定員42名
+土|10:00|10:45|C|BODY COMBAT|上野|Studio CORE|MASA|w|定員60名
+土|13:00|13:45|A|BODY ATTACK|上野|Studio CORE|石田智裕|w|定員60名
+土|19:00|19:45|C|BODY COMBAT|上野|Studio CORE|家城和大|w|定員60名
+土|20:05|20:50|U|UBOUND|上野|Studio CORE|加賀見律紗|w|定員42名
+日|08:20|08:50|C|BODY COMBAT|上野|Studio CORE|VR|xv|定員60名
+日|12:20|12:50|U|UBOUND|上野|Studio CORE|DAICHI|xb|定員42名
+日|15:35|16:20|C|BODY COMBAT|上野|Studio CORE|ゆゆ|w|定員60名
 月|11:05|11:50|C|BODYCOMBAT|池袋|スタジオ|Taichi|w|
 月|19:45|20:30|C|BODYCOMBAT【暗闇】|池袋|スタジオ|SOTA|wd|
 月|20:50|21:20|A|BODYATTACK【暗闇】|池袋|スタジオ|SOTA|wdnb|
@@ -172,32 +172,32 @@
 日|12:40|13:25|A|BODYATTACK|新川崎|Studio Natural|KUMAGAI|w|
 日|14:50|15:35|C|BODYCOMBAT|新川崎|Studio Natural|CHIHARU|w|
 月|08:40|09:25|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
-月|20:45|21:30|C|BODY COMBAT [定員42名]|浦和|5F BLUE Studio|YUHI|w|定員42名
+月|20:45|21:30|C|BODY COMBAT|浦和|5F BLUE Studio|YUHI|w|定員42名
 火|07:25|07:55|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
-火|10:15|11:00|C|BODY COMBAT [定員42名]|浦和|5F BLUE Studio|原田悠茉|w|定員42名
-火|11:25|12:10|A|BODY ATTACK [定員28名]|浦和|6F RED Studio|原田悠茉|w|定員28名
-火|19:15|20:00|A|BODY ATTACK [定員42名]|浦和|5F BLUE Studio|矢内麻美|w|定員42名
-火|20:25|21:10|C|BODYCOMBAT [定員42名]|浦和|5F BLUE Studio|服部朋晃|w|定員42名
+火|10:15|11:00|C|BODY COMBAT|浦和|5F BLUE Studio|原田悠茉|w|定員42名
+火|11:25|12:10|A|BODY ATTACK|浦和|6F RED Studio|原田悠茉|w|定員28名
+火|19:15|20:00|A|BODY ATTACK|浦和|5F BLUE Studio|矢内麻美|w|定員42名
+火|20:25|21:10|C|BODYCOMBAT|浦和|5F BLUE Studio|服部朋晃|w|定員42名
 水|07:30|08:15|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
-水|18:45|19:30|C|BODY COMBAT [定員42名]|浦和|5F BLUE Studio|井上暁斗|w|定員42名
-水|19:15|20:00|U|UBOUND [定員28名]|浦和|6F RED Studio|矢内麻美|w|定員28名
-水|20:45|21:30|A|BODY ATTACK [定員42名]|浦和|5F BLUE Studio|岸本滉平|w|定員42名
+水|18:45|19:30|C|BODY COMBAT|浦和|5F BLUE Studio|井上暁斗|w|定員42名
+水|19:15|20:00|U|UBOUND|浦和|6F RED Studio|矢内麻美|w|定員28名
+水|20:45|21:30|A|BODY ATTACK|浦和|5F BLUE Studio|岸本滉平|w|定員42名
 木|09:00|09:45|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
-木|12:50|13:35|C|BODY COMBAT [定員28名]|浦和|6F RED Studio|小曽根厚仁|w|定員28名
+木|12:50|13:35|C|BODY COMBAT|浦和|6F RED Studio|小曽根厚仁|w|定員28名
 木|15:25|16:10|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
-木|19:55|20:40|C|BODY COMBAT ［定員42名]|浦和|5F BLUE Studio|MISUZU|w|定員42名
-木|20:15|20:45|U|UBOUND [定員28名]|浦和|6F RED Studio|井上暁斗|w|定員28名
-木|21:05|21:50|A|BODY ATTACK [定員42名]|浦和|5F BLUE Studio|MISUZU|w|定員42名
+木|19:55|20:40|C|BODY COMBAT|浦和|5F BLUE Studio|MISUZU|w|定員42名
+木|20:15|20:45|U|UBOUND|浦和|6F RED Studio|井上暁斗|w|定員28名
+木|21:05|21:50|A|BODY ATTACK|浦和|5F BLUE Studio|MISUZU|w|定員42名
 土|08:45|09:30|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
-土|12:30|13:15|C|BODY COMBAT [定員42名]|浦和|5F BLUE Studio|MASA|w|定員42名
-土|12:50|13:35|U|UBOUND [定員28名]|浦和|6F RED Studio|柴田有里江|w|定員28名
-土|16:10|16:55|C|BODY COMBAT [定員42名]|浦和|5F BLUE Studio|原田悠茉|w|定員42名
-土|17:15|18:00|A|BODY ATTACK [定員42名]|浦和|5F BLUE Studio|原田悠茉|w|定員42名
+土|12:30|13:15|C|BODY COMBAT|浦和|5F BLUE Studio|MASA|w|定員42名
+土|12:50|13:35|U|UBOUND|浦和|6F RED Studio|柴田有里江|w|定員28名
+土|16:10|16:55|C|BODY COMBAT|浦和|5F BLUE Studio|原田悠茉|w|定員42名
+土|17:15|18:00|A|BODY ATTACK|浦和|5F BLUE Studio|原田悠茉|w|定員42名
 日|08:45|09:30|C|BODY COMBAT|浦和|6F RED Studio|VR|xv|
-日|13:40|14:25|C|BODY COMBAT [定員28名]|浦和|6F RED Studio|MISUZU|w|定員28名
-日|14:45|15:30|U|UBOUND [定員28名]|浦和|6F RED Studio|井上暁斗|w|定員28名
-日|16:50|17:35|A|BODY ATTACK [定員42名]|浦和|5F BLUE Studio|家城和大|w|定員42名
-日|17:55|18:40|C|BODY COMBAT [定員42名]|浦和|5F BLUE Studio|家城和大|w|定員42名
+日|13:40|14:25|C|BODY COMBAT|浦和|6F RED Studio|MISUZU|w|定員28名
+日|14:45|15:30|U|UBOUND|浦和|6F RED Studio|井上暁斗|w|定員28名
+日|16:50|17:35|A|BODY ATTACK|浦和|5F BLUE Studio|家城和大|w|定員42名
+日|17:55|18:40|C|BODY COMBAT|浦和|5F BLUE Studio|家城和大|w|定員42名
 火|09:55|10:40|C|BODY COMBAT|横浜|STANDARD STUDIO|横山菜摘|w|
 火|12:05|12:50|U|UBOUND|横浜|STANDARD STUDIO|TAKEMI|wb|
 火|18:15|18:45|A|BODY ATTACK|横浜|STANDARD STUDIO|ながしー|wb|
