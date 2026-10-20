@@ -134,7 +134,7 @@ def merge_studios(rows):
 def fetch(url):
     for attempt in range(3):
         try:
-            r = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (jexer-lessons)"}, timeout=30)
+            r = requests.get(url, headers={"User-Agent": "Mozilla/5.0 (jexer-lessons)"}, timeout=(10, 30))
             r.raise_for_status()
             return r.content.decode("utf-8", "replace")
         except requests.RequestException as e:
@@ -158,6 +158,9 @@ def main():
     for name, kind, shop in STORES:
         url = BASE.format(kind=kind, shop=shop) + ("&next=true" if args.next else "")
         html = fetch(url)
+        if html is None and not stores:
+            # 最初の店舗から取れないときはサイトに接続できていないので、既存データを残して中止
+            sys.exit(f"ERROR: {url} に接続できません。data/ は更新しません。")
         if html is None:
             warnings.append(f"{name}: 取得失敗 {url}")
             stores[name] = {"shop": shop, "kind": kind, "closed": [], "count": 0,
@@ -172,9 +175,11 @@ def main():
         all_rows += rows
         stores[name] = {"shop": shop, "kind": kind, "page_title": title, "closed": closed,
                         "count": len(rows), "fetched_at": datetime.now(JST).isoformat(timespec="seconds")}
-        print(f"{name}\t{len(rows)}")
+        print(f"{name}\t{len(rows)}", flush=True)
         time.sleep(1)  # サーバーに負荷をかけないよう間隔をあける
 
+    if not all_rows:
+        sys.exit("ERROR: 1件も取れませんでした。data/ は更新しません。")
     os.makedirs(DATA_DIR, exist_ok=True)
     text = "".join(line(r) + "\n" for r in all_rows)
     outputs = ["next.txt"] if args.next else ["latest.txt", now.strftime("%Y%m") + ".txt"]
